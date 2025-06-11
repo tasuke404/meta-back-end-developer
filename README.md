@@ -1,0 +1,1 @@
+This repository contains notes, assignments, and answers to the quizzes of the [Meta Back-End Developer Professional Certificate Specialization](https://www.coursera.org/professional-certificates/meta-back-end-developer).
