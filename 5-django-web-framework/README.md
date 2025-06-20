@@ -15,6 +15,11 @@
     - [Knowledge Check: Admin](#knowledge-check-admin)
     - [Knowledge Check: Database Configuration](#knowledge-check-database-configuration)
     - [Module Quiz: Models](#module-quiz-models)
+  - [Module 4](#module-4)
+    - [Knowledge check: Templates](#knowledge-check-templates)
+    - [Knowledge check: Working with Templates](#knowledge-check-working-with-templates)
+    - [Module Quiz: Templates](#module-quiz-templates)
+    
 # Quizzes
 
 ## Module 1
@@ -92,3 +97,21 @@
 ![](images/29.png)
 ![](images/30.png)
 ![](images/31.png)
+
+## Module 4
+
+### Knowledge check: Templates
+
+![](images/32.png)
+![](images/33.png)
+
+### Knowledge check: Working with Templates
+
+![](images/34.png)
+![](images/35.png)
+
+### Module Quiz: Templates
+
+![](images/36.png)
+![](images/37.png)
+![](images/38.png)
